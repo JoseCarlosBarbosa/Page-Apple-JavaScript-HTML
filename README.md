@@ -1,5 +1,6 @@
 
 Dynamic Web Interactions with Apple Watch Replica
+
 Bem-vindo ao repositório de um projeto emocionante que explora interações dinâmicas em páginas da web, 
 controle de elementos de um site e a adição de inteligência às páginas da internet. Este projeto é uma réplica inspirada no site do Apple Watch,
 onde você poderá mergulhar em um ambiente interativo e aprender como criar experiências envolventes para os usuários.
